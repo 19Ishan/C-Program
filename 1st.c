@@ -16,4 +16,5 @@
         struct student m = fun();
         s.name = "turing";
         printf("%s", m.name);
+        printf("Ishan is a good boy ");
     }
